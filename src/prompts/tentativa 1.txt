@@ -1,0 +1,5 @@
+prompt gpt 
+
+
+3/4 view digital painting of a gothic anime-style podcast host woman with long black hair in loose strands, pale skin, sharp facial features, expressive dark eyes with eyeliner, wearing a red blouse beneath a black trench coat, mechanical cyber choker with wires, black hoop earring, now wearing thick black rectangular eyeglasses with glossy lenses inspired by Bayonetta’s glasses, and large sleek black over-ear headphones with metallic accents that match her gothic aesthetic, seated at a modern podcast desk with a professional microphone on an arm stand, pop filter, and open laptop with notes, confident and calm expression, surrounded by an immersive podcast studio environment with acoustic foam panels, soft amber and teal ambient lighting, cinematic film posters, bookshelf with DVDs and movie scripts, a vintage film reel on the shelf, podcast logo “Close Crítico: O Discurso por Trás da Tela” subtly displayed on a wall sign, ultra-detailed anime-realism hybrid style, realistic textures, high-resolution lighting and shadows --v 6 --ar 1:1 --style raw --quality 2
+
